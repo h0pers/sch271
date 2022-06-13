@@ -1,0 +1,91 @@
+.content .content__text {
+  padding-bottom: 200px;
+  text-align: center;
+}
+.content .content__text p {
+  margin-top: 150px;
+  font-size: 20px;
+}
+
+.footer {
+  background-color: #070707;
+  height: auto;
+  padding-bottom: 20px;
+  bottom: 0;
+  left: 0;
+}
+.footer .footer__body .footer__logo {
+  float: left;
+  margin-top: 20px;
+}
+.footer .footer__body .footer__logo a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 16px;
+  font-family: "Caveat", cursive;
+}
+.footer .footer__body .footer__menu .footer__header nav {
+  float: right;
+}
+.footer .footer__body .footer__menu .footer__header nav ul {
+  list-style: none;
+  text-decoration: none;
+  color: #fff;
+  font-weight: 600;
+  margin-top: 47px;
+}
+.footer .footer__body .footer__menu .footer__header nav ul li {
+  display: inline;
+  padding: 0px 0px 0px 53px;
+}
+.footer .footer__content .footer__content_text #table {
+  float: right;
+}
+.footer .footer__content .footer__content_text #table ul {
+  list-style: none;
+}
+.footer .footer__content .footer__content_text #table ul li {
+  text-align: center;
+  padding: 15px 0px 0px 0px;
+}
+.footer .footer__content .footer__content_text #table ul li a {
+  text-decoration: none;
+  color: #BFBFBF;
+  font-size: 10px;
+}
+.footer .footer__content .footer__content_text #table2 {
+  float: right;
+  margin-right: 32px;
+}
+.footer .footer__content .footer__content_text #table2 ul {
+  list-style: none;
+}
+.footer .footer__content .footer__content_text #table2 ul li {
+  text-align: center;
+  padding: 15px 0px 0px 0px;
+}
+.footer .footer__content .footer__content_text #table2 ul li a {
+  color: #BFBFBF;
+  text-decoration: none;
+  font-size: 10px;
+}
+.footer .footer__content .footer__content_text #table3 {
+  float: right;
+  margin-right: 57px;
+}
+.footer .footer__content .footer__content_text #table3 ul {
+  list-style: none;
+}
+.footer .footer__content .footer__content_text #table3 ul li {
+  padding: 15px 0px 0px 0px;
+  text-align: center;
+}
+.footer .footer__content .footer__content_text #table3 ul li a {
+  color: #BFBFBF;
+  text-decoration: none;
+  font-size: 10px;
+}
+.footer .footer__content .footer__content_text .map p {
+  font-size: 8px;
+  color: #BFBFBF;
+}
